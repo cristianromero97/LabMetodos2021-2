@@ -1,0 +1,31 @@
+5
+Informatiquin
+Salud = 30
+Fuerza = 20
+Inteligencia = 50
+Velocidad = 40
+Suerte = 20
+Tanquetines
+Salud = 50
+Fuerza = 30
+Inteligencia = 20
+Velocidad = 10
+Suerte = 10
+Guerriquines
+Salud = 30
+Fuerza = 50
+Inteligencia = 20
+Velocidad = 20
+Suerte = 25
+Arlequin
+Salud = 40
+Fuerza = 25
+Inteligencia = 40
+Velocidad = 60
+Suerte = 35
+Mediquin
+Salud = 15
+Fuerza = 15
+Inteligencia = 60
+Velocidad = 20
+Suerte = 30
