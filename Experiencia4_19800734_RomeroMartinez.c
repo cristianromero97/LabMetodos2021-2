@@ -161,7 +161,7 @@ producto * agregar_producto(producto * totalProductos,int cantidad, producto nue
 	return nuevos_productos;
 
 }
-/* ESTE APARTADO CORRESPONDE A UNA FUNCION NO IMPLEMENTADO. PERO TE DEJO LA IDEA BASE */
+/* ESTE APARTADO CORRESPONDE A UNA FUNCION NO IMPLEMENTADA. PERO TE DEJO LA IDEA BASE */
 
 /*producto * agregar_dato(producto * totalProductos, int cantidad, producto añadido){
 	producto * nuevo_arreglo_producto = (producto *)malloc(sizeof(producto)*cantidad+1);
