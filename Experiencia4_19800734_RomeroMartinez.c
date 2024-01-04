@@ -241,7 +241,7 @@ int main(){
 					printf("\n");
 					break;
 
-		   case 5:	
+		        case 5:	
 					agregar_producto(totalProductos,cantidad,totalProductos[i-1]);
 					break;
 			
