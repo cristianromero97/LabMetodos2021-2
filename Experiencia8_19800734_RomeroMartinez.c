@@ -29,7 +29,7 @@ int main(){
 	printf("Numero 2 : ");
 	scanf("%d",&numero2);
 
-	for (int i = 1 ; i <= numero1 / 2 ; i++){
+    for (int i = 1 ; i <= numero1 / 2 ; i++){
 		if(numero1 % i == 0)
 			divisor1 = divisor1 + i;
 	}
@@ -54,9 +54,9 @@ int main(){
 
 	}
 
-	if(programa==2){
+     if(programa==2){
 		printf("Gracias por utilizar el programa");
 
 	}
-	return 0;
+     return 0;
 }
